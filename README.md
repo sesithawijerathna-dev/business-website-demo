@@ -10,6 +10,8 @@ Double-click `index.html` to open it in your browser. You can also right-click i
 
 - `index.html`: business name, copy, menu, prices, sample reviews, opening hours and location.
 - `styles.css`: colours, typography, layouts and mobile styles. Brand colours are at the top.
+- `redesign.css`: version 2 visual design, responsive refinements and animations; loaded after styles.css.
+- `motion.js`: scroll reveals, reading progress and animated menu transitions. Reduced-motion preferences are respected.
 - `script.js`: mobile navigation, menu filters and WhatsApp settings.
 - `assets/cafe.jpg`: locally saved café photo; works offline.
 - `assets/favicon.svg`: the small browser-tab icon.
